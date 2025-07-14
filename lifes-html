@@ -8,6 +8,12 @@
     <link rel="stylesheet" href="">
     <!-- Put css here if you don't have an external style sheet-->
     <style>
+    p{
+    color: blue;
+    }
+    p:hover {
+              background-color: pink;
+     }
     </style>
     <!-- For Javascript -->
     <script src=""></script>
