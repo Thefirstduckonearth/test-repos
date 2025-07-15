@@ -17,13 +17,17 @@
      }
     </style>
     <!-- For Javascript -->
-    <script src="">
-    
+    <script>
+        function balert () {
+            window.alert ("GIRLLLL, UR OUTTA UR MINDDD");
+            
+        }
     
     
     </script>
   </head>
   <body>
+       <button onclick="balert()" >Dogma</button>
     <div class="">
       <h1>This is you</h1>
       <p>Life is just a dream.</p>
